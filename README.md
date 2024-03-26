@@ -1,5 +1,6 @@
 # ComfyUI Workflows
 ## ComfyUI workflows for SD and SDXL Image Generation (ENG y ESP)
+
 ### English
 
 If you have any red nodes and some errors when you load it, just go to the ComfyUI Manager and select "Import Missing Nodes" and install them. You need to download the chekpoints, controlnet models, etc. by yourself. I will soon leave in the description all the needed things to get it up to work
@@ -7,7 +8,7 @@ If you have any red nodes and some errors when you load it, just go to the Comfy
 
 ### Español
 
-Si te salen nodos en rojo y errores al cargar el workflow, es normal, quizá no tengas todos los nodos necesarios. Entra en ComfyUI Manager y selecciona "Import Missing Nodes" y dentro los seleccionas todos y los instalas.
+Si te salen nodos en rojo y errores al cargar el workflow, es normal, quizá no tengas todos los nodos necesarios. Entra en ComfyUI Manager y selecciona "Import Missing Nodes" y dentro los seleccionas todos y los instalas. Los modelos los tienes que descargar y añadir tú por tu cuenta.
 
 ### Modelos (CKPT) recomendados
 
